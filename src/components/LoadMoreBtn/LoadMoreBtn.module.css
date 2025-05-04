@@ -1,0 +1,19 @@
+.loadMoreBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    padding: 8px;
+    border: none;
+    border-radius: 12px;
+    outline: none;
+    background-color: rgb(219, 86, 150);
+    color: #ffffff;
+
+    font-family: var(--font-family);
+    font-weight: 500;
+
+    &:hover {
+        background-color: green;
+    }
+}

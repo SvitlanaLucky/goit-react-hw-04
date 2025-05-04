@@ -4,7 +4,7 @@
     min-width: 320px;
     width: 100%;
     padding: 6px 0;
-    background-color: teal;
+    background-color: rgb(231, 231, 33);
 }
 
 .headerForm {
@@ -38,9 +38,9 @@
 
     padding: 8px 12px 4px 12px;
 
-    background-color: #dda0dd;
+    background-color: rgb(219, 86, 150);
 
     &:hover {
-        background-color: #e6e6fa;
+        background-color: green;
     }
 }
